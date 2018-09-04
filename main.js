@@ -7,7 +7,7 @@
     const SNAKE_BORDER_COLOUR = 'darkgreen';
     const FOOD_COLOUR = 'red';
     const FOOD_BORDER_COLOUR = 'darkred';
-
+    const test = "This is a test";
     let snake = [
       {x: 150, y: 150},
       {x: 140, y: 150},
